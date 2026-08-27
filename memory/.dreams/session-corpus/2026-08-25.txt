@@ -1,0 +1,1 @@
+[main/sessions/main/4fa99f4d-7f4f-4eb7-a453-cbda0e2d0814#L2] User: Use the exec tool with host=node targeting Zebedee-PC-CANARY. Read-only diagnostic only: run netstat -ano | findstr :18799, tasklist /FI "IMAGENAME eq node.exe", and list the current user's Startup folder. Return concise raw results. Do not change files, tasks, processes, c
